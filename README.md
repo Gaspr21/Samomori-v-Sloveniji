@@ -6,4 +6,5 @@ Načrt za izdelavo projekta:
 2. Uporabil bom Excel za data repository.
 3. Prikazav bom število samomorov glede na leto
 4. Primerjal bom število samomorov moških in žensk za vsako leto od 2009 do 2020.
+
 Pripravil: Gašpr Hace
